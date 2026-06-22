@@ -1,1 +1,22 @@
 p {font-family: Arial, sans-serif; font-size: 14px; }
+header{ /* Cor de fundo*/
+    background-color: blue;
+}
+h1{ /* Cor da letra*/
+    color: #FFFFFF
+}
+nav{
+    background-color: orange;
+}
+section{ /* Cor de fundo*/
+      background-color: yellow;
+}
+h2{ /* Cor da letra*/
+     color: black;
+}
+nav{ 
+    background-color:greenyellow ;
+}
+main{
+    
+}
