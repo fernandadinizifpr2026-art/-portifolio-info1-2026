@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <style>
-  .container {
+.container {
     display: flex;
     flex-direction: row;
     background-color:gray;
@@ -15,5 +12,3 @@
     text-align: center;  
     font-size: 30px;
     }
-    </style>
-</head>
