@@ -3,10 +3,10 @@
     flex-direction: row;
     justify-content: center;
     background-color:gray;
-  }.
+  }
 
   .quadrado-red {
-    align-self:  self-end;
+    align-self:  flex-end;
     background-color:red;
     width: 50px;
     height: 50px;
@@ -15,7 +15,7 @@
   }
 
   .quadrado-blue {
-    align-self: self-start;
+    align-self: flex-start;
     background-color: blue;
     width: 50px;
     height: 50px;
